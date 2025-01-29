@@ -1,5 +1,4 @@
 import React, { useEffect } from "react";
-import Typed from 'typed.js'; 
 import "./App.css";
 import mypic from './assets/mypic.jpg';
 
